@@ -31,3 +31,18 @@ Frontend-first builder with a strong **UI/UX** mindset; interested in **Big Data
 
 
 > **Exploring / Learning:** `Hadoop` · `Spark` · `Kafka` · `Elasticsearch`
+
+
+### GitHub Stats:
+
+<!-- “Top Languages” card -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuyLinhDo0808&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+
+<!-- “Stats” card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThuyLinhDo0808&theme=github_dark" height="180" alt="GitHub Stats" />
+
+<!-- “Streak” card -->
+<img
+  src="https://streak-stats.demolab.com?user=ThuyLinhDo0808&theme=dark&hide_border=true" height="180"
+  alt="GitHub Streak" />
